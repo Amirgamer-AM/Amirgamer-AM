@@ -6,10 +6,12 @@
 ### *my organizations*
 
 **1- Amiryan Trans Copany**
-[See Amiryan Trans Copany organization](https://github.com/Amiryan-Trans-Company) 
+[See Amiryan Trans Copany organization]
+(https://github.com/Amiryan-Trans-Company) 
 
 **2 Amir Gamer 2026**
-[See Amir gamer 2026 organization](https://github.com/Amir-gamer-2026)
+[See Amir gamer 2026 organization]
+(https://github.com/Amir-gamer-2026)
 
 ### 📨 *My Email*
 **rf.miri@gmail.com**
