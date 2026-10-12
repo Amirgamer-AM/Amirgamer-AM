@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 🕶 Im Amir Gamer
+## *🕶 Im Amir Gamer*
 
 **What do i do is** - 🎮 Gaming- 💻 Programming- 🌐 Web Development- 🚀 Cool Projects- 📚 Learning & Sharing! 
 
@@ -7,7 +7,7 @@
 **rf.miri@gmail.com**
 
 
-## 🔗 Links
+## *🔗 Links*
 
 ### 🌐 *Website*
 [see my Website](https://fatemehmiri.github.io/Amir-gamer-2026/)
