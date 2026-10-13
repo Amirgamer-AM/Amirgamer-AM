@@ -58,7 +58,7 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 
 🌃 THE ANIME GAMING DIMENSION
 
-<p align="center"> <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="420" alt="Anime-inspired gaming animation"/> </p>
+<p align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Gaming and coding animation"/> </p>
 
 <p align="center"> <b>⚡ DIFFERENT WORLDS. INFINITE POSSIBILITIES. ONE GAMER. ⚡</b> </p>
 
