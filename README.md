@@ -56,7 +56,7 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 
 <p> <a href="https://github.com/Amir-gamer-2026"> <img src="https://img.shields.io/badge/ENTER-THE%20GAMER%20ZONE-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Amir Gamer 2026"/> </a> </p>
 
-🌃 THE ANIME GAMING DIMENSION
+🌌 THE GAMING UNIVERSE
 
 <p align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Gaming and coding animation"/> </p>
 
