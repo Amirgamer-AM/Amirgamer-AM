@@ -1,4 +1,4 @@
-###⚡🎮 AMIR GAMER — THE ANIME GAMING UNIVERSE 🎮⚡
+⚡🎮 AMIR GAMER — THE ANIME GAMING UNIVERSE 🎮⚡
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080018,50:6A00FF,100:00E5FF&height=230&section=header&text=AMIR%20GAMER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ANIME%20SOUL%20%7C%20GAMING%20MIND%20%7C%20DIGITAL%20DREAMS&descAlignY=60&descSize=13" width="100%"/> </p>
 
