@@ -70,9 +70,7 @@ Whether it's an epic anime battle, a challenging game, or an exciting new techno
 
 <p align="center"> <a href="https://github.com/Amirgamer-AM"> <img src="https://img.shields.io/badge/GITHUB-MY%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://fatemehmiri.github.io/Amir-gamer-2026/"> <img src="https://img.shields.io/badge/WEBSITE-ENTER%20MY%20WORLD-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website"/> </a> <a href="https://youtube.com/@kingsinglegojo"> <img src="https://img.shields.io/badge/YOUTUBE-ANIME%20%26%20GAMING-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"/> </a> <a href="https://www.linkedin.com/in/amiryan-trans-company-35957b442"> <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.reddit.com/user/Main_Oil460/"> <img src="https://img.shields.io/badge/REDDIT-JOIN%20THE%20COMMUNITY-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/> </a> </p>
 
-
 <p align="center"> <a href="https://discord.gg/3qlinkedinnnn"> <img src="https://img.shields.io/badge/DISCORD-ENTER%20THE%20SQUAD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join my Discord server"/> </a> </p>
-
 
 <p align="center"> <a href="https://Learning@AkvuevK43"> <img src="https://img.shields.io/badge/MASTODON-FIND%20ME-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="My Mastodon"/> </a> </p>
 
