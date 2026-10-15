@@ -76,7 +76,6 @@ Whether it's an epic anime battle, a challenging game, or an exciting new techno
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     src="https://img.shields.io/badge/REDDIT-JOIN%20THE%20COMMUNITY-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/> </a> </p>
 
 <div align="center">
-
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-SEE%20MY%20INSTAGRAM-E4405F?style=for-the-badge&labelColor=555555&logo=instagram&logoColor=white)](https://www.instagram.com/Dinosaur.60240077/)
 
 </div>
