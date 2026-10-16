@@ -12,10 +12,6 @@
 <p align="center">
 <img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif?raw=true" width="400" />
 </p>
-<p align="center">
-<img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif?raw=true" width="400" />
-</p>
-
 
 🌌 WHO IS AMIR?
 
@@ -74,6 +70,10 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 
 
 ![Amirgamer-AM's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirgamer-AM&layout=compact&theme=default&hide=jupyter%20notebook&langs_count=8)
+
+<p align="center">
+<img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif?raw=true" width="400" />
+</p>
 
 💼 My work on Github
 
