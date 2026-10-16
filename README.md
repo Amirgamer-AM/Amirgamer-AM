@@ -1,8 +1,10 @@
-⚡🎮 AMIR GAMER — THE ANIME GAMING UNIVERSE 🎮⚡ <p align="center">
-<img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif?raw=true" width="400" />
-</p>
+⚡🎮 AMIR GAMER — THE ANIME GAMING UNIVERSE 🎮⚡
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080018,50:6A00FF,100:00E5FF&height=230&section=header&text=AMIR%20GAMER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ANIME%20SOUL%20%7C%20GAMING%20MIND%20%7C%20DIGITAL%20DREAMS&descAlignY=60&descSize=13" width="100%"/> </p>
+
+<p align="center">
+<img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif?raw=true" width="400" />
+</p>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+WORLD;ANIME+%7C+GAMING+%7C+TECH;ENTERING+THE+NEXT+LEVEL;PLAYER+ONE%3A+AMIR;THE+ADVENTURE+NEVER+ENDS" alt="Animated gaming introduction"/> </p>
 
