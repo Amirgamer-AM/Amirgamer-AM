@@ -110,6 +110,9 @@ Whether it's an epic anime battle, a challenging game, or an exciting new techno
 
 <p align="center"> <b>📩 Email:</b> rrf.miri@gmail.com </p>
 
+  <img alt="Contribution snake" src="https://github.com/1995parham/1995parham/raw/output/github-snake.svg" />
+</picture>
+
 💀 FINAL BOSS: MY LIMITS
 ╔════════════════════════════════════╗
 ║          AMIR GAMER.exe             ║
@@ -127,11 +130,6 @@ Whether it's an epic anime battle, a challenging game, or an exciting new techno
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=THANKS+FOR+VISITING+MY+PROFILE;SEE+YOU+IN+THE+NEXT+MISSION;GG+WP+%E2%9A%A1;THE+ADVENTURE+NEVER+ENDS" alt="Thanks for visiting"/> </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CFF,100:080018&height=130&section=footer" width="100%" alt="Neon footer"/> </p>
-
-<p align="center"> <b>🕶️ AMIR GAMER — UNLOCK YOUR DESTINY. 🎮⚡</b> </p>
-srcset="https://github.com/Amirgamer-AM/Amirgamer-AM/raw/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://github.com/Amir gamer-AM/Amirgamer-AM/raw/output/github-snake.svg" />
-</picture>
 
 ![Amirgamer-AM's github views](https://komarev.com/ghpvc/?username=Amirgamer-AM)
  
