@@ -129,6 +129,9 @@ Whether it's an epic anime battle, a challenging game, or an exciting new techno
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CFF,100:080018&height=130&section=footer" width="100%" alt="Neon footer"/> </p>
 
 <p align="center"> <b>🕶️ AMIR GAMER — UNLOCK YOUR DESTINY. 🎮⚡</b> </p>
+srcset="https://github.com/Amirgamer-AM/Amirgamer-AM/raw/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://github.com/Amir gamer-AM/Amirgamer-AM/raw/output/github-snake.svg" />
+</picture>
 
 ![Amirgamer-AM's github views](https://komarev.com/ghpvc/?username=Amirgamer-AM)
  
