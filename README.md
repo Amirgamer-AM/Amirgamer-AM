@@ -74,7 +74,6 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 
 💼 My work on Github
 
-![Amirgamer-AM's github stats](https://github-readme-stats.vercel.app/api?username=Amirgamer-AM&show_icons=true&theme=default&show_icons=true&count_private=true)
 
 **Languages** &nbsp;
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
