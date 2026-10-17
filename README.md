@@ -66,12 +66,7 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 <p> <a href="https://github.com/Amir-gamer-2026"> <img src="https://img.shields.io/badge/ENTER-THE%20GAMER%20ZONE-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Amir Gamer 2026"/> </a> </p>
 
 
-<p align="center">
-<img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif?raw=true" width="400" />
-</p>
-
 💼 My work on Github
-
 
 
 ![Amirgamer-AM's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirgamer-AM&layout=compact&theme=default&hide=jupyter%20notebook&langs_count=8)
