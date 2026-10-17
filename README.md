@@ -107,6 +107,10 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 <img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif?raw=true" width="400" />
 </p>
 
+### My Skills
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,terminal,windows,apple,debian,kali,powershell,proxmox,docker,vitepress,vuejs,vite,elementplus,solidjs,prettier,typescript,js,html,golang,selenium,python,c,nginx,php,chrome,edge,onedrive,cloudflare,githubpages,githubactions)        
+
 🌌 THE GAMING UNIVERSE
 
 <p align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Gaming and coding animation"/> </p>
