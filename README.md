@@ -150,13 +150,9 @@ Whether it's an epic anime battle, a challenging game, or an exciting new techno
 <p align="center"> <a href="mailto:rrf.miri@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-CONTACT%20AMIR-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Amir"/> </a> </p>
 
 <p align="center"> <b>📩 Email:</b> rrf.miri@gmail.com </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=THANKS+FOR+VISITING+MY+PROFILE;SEE+YOU+IN+THE+NEXT+MISSION;GG+WP+%E2%9A%A1;THE+ADVENTURE+NEVER+ENDS" alt="Thanks for visiting"/> </p>
 
-img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMFLIX&layout=compact&theme=transparent"/>
-	    <img src="https://github-readme-stats.vercel.app/api?username=DIMFLIX&show_icons=true&theme=transparent"/>
-	    <img alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=DIMFLIX&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
-	</div>
-</details>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CFF,100:080018&height=130&section=footer" width="100%" alt="Neon footer"/> </p>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=THANKS+FOR+VISITING+MY+PROFILE;SEE+YOU+IN+THE+NEXT+MISSION;GG+WP+%E2%9A%A1;THE+ADVENTURE+NEVER+ENDS" alt="Thanks for visiting"/> </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CFF,100:080018&height=130&section=footer" width="100%" alt="Neon footer"/> </p>
