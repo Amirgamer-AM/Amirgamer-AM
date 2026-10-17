@@ -77,6 +77,8 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,terminal,windows,apple,debian,kali,powershell,proxmox,docker,vitepress,vuejs,vite,elementplus,solidjs,prettier,typescript,js,html,golang,selenium,python,c,nginx,php,chrome,edge,onedrive,cloudflare,githubpages,githubactions) 
 
+### 🛠️ Tech I work with
+
 **Languages** &nbsp;
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
