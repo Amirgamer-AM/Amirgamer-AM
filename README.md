@@ -150,5 +150,7 @@ Whether it's an epic anime battle, a challenging game, or an exciting new techno
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CFF,100:080018&height=130&section=footer" width="100%" alt="Neon footer"/> </p>
 
+
+
 ![Amirgamer-AM's github views](https://komarev.com/ghpvc/?username=Amirgamer-AM)
 
