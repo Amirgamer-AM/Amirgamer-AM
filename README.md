@@ -65,6 +65,12 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 
 <p> <a href="https://github.com/Amir-gamer-2026"> <img src="https://img.shields.io/badge/ENTER-THE%20GAMER%20ZONE-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Amir Gamer 2026"/> </a> </p>
 
+Some Times you need to think:
+
+<div align="center">
+  <img src="assets/coffee.svg" alt="Coffee animation" width="800" style="max-width: 100%;" />
+</div>
+
 
 💼 My work on Github
 
