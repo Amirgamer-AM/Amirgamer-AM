@@ -57,9 +57,7 @@ A place for transportation-related ideas, projects, and future developments.
 
 <p> <a href="https://github.com/Amiryan-Trans-Company"> <img src="https://img.shields.io/badge/ENTER-TRANSPORT%20HQ-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Amiryan Trans Company"/> </a> </p>
 
-<p align="center">
-<img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif?raw=true" width="400" />
-</p>
+
 
 🎮 AMIR GAMER 2026
 
@@ -73,6 +71,12 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 </p>
 
 💼 My work on Github
+
+
+
+![Amirgamer-AM's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirgamer-AM&layout=compact&theme=default&hide=jupyter%20notebook&langs_count=8)
+
+![Amirgamer-AM's github stats](https://github-readme-stats.vercel.app/api?username=Amirgamer-AM&show_icons=true&theme=default&show_icons=true&count_private=true)
 
 
 **Languages** &nbsp;
@@ -103,6 +107,10 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+<p align="center">
+<img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif?raw=true" width="400" />
+</p>
 
 🌌 THE GAMING UNIVERSE
 
