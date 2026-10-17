@@ -167,5 +167,9 @@ Whether it's an epic anime battle, a challenging game, or an exciting new techno
 
 
 
-![Amirgamer-AM's github views](https://komarev.com/ghpvc/?username=Amirgamer-AM)
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Amirgamer-AM.Amirgamer-AM&color=8AB6D6" />
+</p>
+
+</div>
 
