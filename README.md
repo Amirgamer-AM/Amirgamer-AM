@@ -66,10 +66,12 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 <p> <a href="https://github.com/Amir-gamer-2026"> <img src="https://img.shields.io/badge/ENTER-THE%20GAMER%20ZONE-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Amir Gamer 2026"/> </a> </p>
 
 
-💼 My work on Github
+# 📊 GitHub Stats
 
 
 ![Amirgamer-AM's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirgamer-AM&layout=compact&theme=default&hide=jupyter%20notebook&langs_count=8)
+
+![](https://streak-stats.demolab.com/?user=Amirgamer-AM&theme=dark&hide_border=false)<br/> 
 
 ![Amirgamer-AM's github stats](https://github-readme-stats.vercel.app/api?username=Amirgamer-AM&show_icons=true&theme=default&show_icons=true&count_private=true)
 
@@ -160,12 +162,4 @@ Whether it's an epic anime battle, a challenging game, or an exciting new techno
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=THANKS+FOR+VISITING+MY+PROFILE;SEE+YOU+IN+THE+NEXT+MISSION;GG+WP+%E2%9A%A1;THE+ADVENTURE+NEVER+ENDS" alt="Thanks for visiting"/> </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2CFF,100:080018&height=130&section=footer" width="100%" alt="Neon footer"/> </p>
-
-
-
-<p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Amirgamer-AM.Amirgamer-AM&color=8AB6D6" />
-</p>
-
-</div>
 
