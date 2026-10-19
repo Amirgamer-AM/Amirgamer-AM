@@ -17,7 +17,7 @@
 
 Yo, what's up, gamers? 🔥
 
-I'm Amir, also known as Amirgamer-AM — an anime fan, gaming enthusiast, and technology explorer.
+I'm Amir, also known as Amirgamer — an anime fan, gaming enthusiast, and technology explorer.
 
 🎮 Gaming is my world, and every new challenge is another boss fight.
 ⚔️ Anime inspires my imagination, creativity, and determination.
