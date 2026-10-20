@@ -5,7 +5,6 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+WORLD;ANIME+%7C+GAMING+%7C+TECH;ENTERING+THE+NEXT+LEVEL;PLAYER+ONE%3A+AMIR;THE+ADVENTURE+NEVER+ENDS" alt="Animated gaming introduction"/> </p>
 
 <img alt="Contribution snake" src="https://github.com/1995parham/1995parham/raw/output/github-snake.svg" />
-</picture>
 
 <p align="center"> <img src="https://img.shields.io/badge/PLAYER-AMIR%20GAMER-7B2CFF?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/CLASS-ANIME%20GAMER-00E5FF?style=for-the-badge&logo=steam&logoColor=black"/> <img src="https://img.shields.io/badge/MODE-LEGENDARY-FF1744?style=for-the-badge&logo=gamepad&logoColor=white"/> </p>
 
