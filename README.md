@@ -72,6 +72,8 @@ My gaming-themed organization for digital adventures, experiments, and future pr
 
 ![](https://streak-stats.demolab.com/?user=Amirgamer-AM&theme=dark&hide_border=false)<br/> 
 
+![Amirgamer-AM's github stats](https://github-readme-stats.vercel.app/api?username=Amirgamer-AM&show_icons=true&theme=default&show_icons=true&count_private=true) 
+
 ### My Skills
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,terminal,windows,apple,debian,kali,powershell,proxmox,docker,vitepress,vuejs,vite,elementplus,solidjs,prettier,typescript,js,html,golang,selenium,python,c,nginx,php,chrome,edge,onedrive,cloudflare,githubpages,githubactions) 
