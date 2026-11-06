@@ -9,6 +9,22 @@
 <p align="center"> <img src="https://img.shields.io/badge/PLAYER-AMIR%20GAMER-7B2CFF?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/CLASS-ANIME%20GAMER-00E5FF?style=for-the-badge&logo=steam&logoColor=black"/> <img src="https://img.shields.io/badge/MODE-LEGENDARY-FF1744?style=for-the-badge&logo=gamepad&logoColor=white"/> </p>
 
 <p align="center">
+  <img src="https://flagcdn.com/w80/ir.png" width="40" alt="Iran flag" />
+  <br />
+  <b>I'm from Iran 🇮🇷</b>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
+       width="100" alt="Real Madrid Logo" />
+  <br />
+  <b>🤍 IM Madrid Fan 👑</b>
+  <br />
+  ¡Hala Madrid!
+</p>
+
+<p align="center">
+</p>
+<p align="center">
 <img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif?raw=true" width="400" />
 </p>
 
