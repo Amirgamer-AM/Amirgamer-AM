@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+WORLD;ANIME+%7C+GAMING+%7C+TECH;ENTERING+THE+NEXT+LEVEL;PLAYER+ONE%3A+AMIR;THE+ADVENTURE+NEVER+ENDS" alt="Animated gaming introduction"/> </p>
 
-<img alt="Contribution snake" src="https://github.com/1995parham/1995parham/raw/output/github-snake.svg" />
+<!-- Add your own contribution snake here once it is generated for Amirgamer-AM. -->
 
 <p align="center"> <img src="https://img.shields.io/badge/PLAYER-AMIR%20GAMER-7B2CFF?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/CLASS-ANIME%20GAMER-00E5FF?style=for-the-badge&logo=steam&logoColor=black"/> <img src="https://img.shields.io/badge/MODE-LEGENDARY-FF1744?style=for-the-badge&logo=gamepad&logoColor=white"/> </p>
 
@@ -171,7 +171,7 @@ Whether it's an epic anime battle, a challenging game, or an exciting new techno
 <p align="center"> <b>📩 Email:</b> rrf.miri@gmail.com </p>
 
 <p align="center">
-  <img src="https://github.com/1995parham/1995parham/blob/main/bernard.gif?raw=true" alt="Bernard" />
+  <img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif?raw=true" alt="Amir gaming animation" />
 </p>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=THANKS+FOR+VISITING+MY+PROFILE;SEE+YOU+IN+THE+NEXT+MISSION;GG+WP+%E2%9A%A1;THE+ADVENTURE+NEVER+ENDS" alt="Thanks for visiting"/> </p>
