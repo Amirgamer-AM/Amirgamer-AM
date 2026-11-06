@@ -171,7 +171,7 @@ Whether it's an epic anime battle, a challenging game, or an exciting new techno
 <p align="center"> <b>📩 Email:</b> rrf.miri@gmail.com </p>
 
 <p align="center">
-  <img src="https://github.com/Amirgamer-AM/Amirgamer-AM/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif?raw=true" alt="Amir gaming animation" />
+  <img src="https://github.com/1995parham/1995parham/blob/main/bernard.gif?raw=true" alt="Bernard" />
 </p>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=THANKS+FOR+VISITING+MY+PROFILE;SEE+YOU+IN+THE+NEXT+MISSION;GG+WP+%E2%9A%A1;THE+ADVENTURE+NEVER+ENDS" alt="Thanks for visiting"/> </p>
